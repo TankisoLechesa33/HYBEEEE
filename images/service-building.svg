@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Building construction illustration">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#cfeaff"/>
+      <stop offset="100%" stop-color="#bfe3ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="520" fill="url(#sky)"/>
+  <rect x="0" y="430" width="800" height="90" fill="#c6d0d8"/>
+  <g fill="#d9e5ef">
+    <rect x="90" y="180" width="220" height="220" rx="8"/>
+    <rect x="350" y="120" width="200" height="280" rx="10"/>
+    <rect x="585" y="200" width="130" height="200" rx="8"/>
+  </g>
+  <g fill="#f6f9fc" stroke="#9eafc0" stroke-width="3">
+    <rect x="120" y="210" width="50" height="70"/>
+    <rect x="180" y="210" width="50" height="70"/>
+    <rect x="240" y="210" width="50" height="70"/>
+    <rect x="390" y="160" width="52" height="90"/>
+    <rect x="455" y="160" width="52" height="90"/>
+    <rect x="610" y="230" width="52" height="110"/>
+    <rect x="670" y="230" width="32" height="110"/>
+  </g>
+  <g stroke="#d68a00" stroke-width="10" stroke-linecap="round">
+    <line x1="170" y1="180" x2="370" y2="80"/>
+    <line x1="365" y1="80" x2="550" y2="80"/>
+    <line x1="550" y1="80" x2="600" y2="140"/>
+    <line x1="300" y1="110" x2="300" y2="430"/>
+    <line x1="510" y1="110" x2="510" y2="430"/>
+  </g>
+  <g fill="#f5b700">
+    <rect x="260" y="150" width="80" height="30" rx="4"/>
+    <rect x="430" y="55" width="80" height="30" rx="4"/>
+    <rect x="570" y="115" width="60" height="25" rx="4"/>
+  </g>
+  <g fill="#e15b42">
+    <rect x="470" y="410" width="12" height="22"/>
+    <rect x="315" y="410" width="12" height="22"/>
+  </g>
+</svg>

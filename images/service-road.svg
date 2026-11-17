@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Road and railway construction illustration">
+  <rect width="800" height="520" fill="#d9edf9"/>
+  <rect y="360" width="800" height="160" fill="#7a7f84"/>
+  <path d="M0 360 L800 360 L640 520 L0 520 Z" fill="#555a60"/>
+  <path d="M160 360 L270 240 L530 240 L640 360 Z" fill="#aeb7bc" opacity="0.85"/>
+  <path d="M250 360 L330 270 L470 270 L550 360 Z" fill="#dfe7ec"/>
+  <g stroke="#f3f4f5" stroke-width="12" stroke-linecap="round" stroke-dasharray="38 28">
+    <line x1="390" y1="230" x2="240" y2="360"/>
+    <line x1="410" y1="230" x2="560" y2="360"/>
+  </g>
+  <g stroke="#f7f8f9" stroke-width="12" stroke-dasharray="26 26">
+    <line x1="120" y1="410" x2="660" y2="410"/>
+    <line x1="80" y1="450" x2="700" y2="450"/>
+  </g>
+  <g stroke="#b6631c" stroke-width="8">
+    <line x1="110" y1="70" x2="270" y2="210"/>
+    <line x1="180" y1="60" x2="340" y2="200"/>
+    <line x1="600" y1="70" x2="430" y2="210"/>
+    <line x1="520" y1="60" x2="360" y2="200"/>
+  </g>
+  <g fill="#d5d8dc">
+    <rect x="175" y="80" width="12" height="65"/>
+    <rect x="222" y="90" width="12" height="80"/>
+    <rect x="564" y="90" width="12" height="80"/>
+    <rect x="610" y="80" width="12" height="65"/>
+  </g>
+  <g fill="#a3a9b0">
+    <rect x="340" y="140" width="120" height="18"/>
+  </g>
+</svg>
